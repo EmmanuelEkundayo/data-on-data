@@ -54,10 +54,10 @@ export async function scrapePlans() {
 
             const mtnRaw = await page.evaluate(() => {
                 const items: any[] = [];
-                document.querySelectorAll('._card-deal').forEach((card) => {
+                document.querySelectorAll('._card-deal').forEach((card: any) => {
                     const title = card.querySelector('h3')?.innerText || ''; // "75MB"
                     const priceText = card.querySelector('._card-deal__footer p')?.innerText || '';
-                    const validText = Array.from(card.querySelectorAll('li')).find(li => li.innerText.toLowerCase().includes('valid'))?.innerText || 'N/A';
+                    const validText = (Array.from(card.querySelectorAll('li')).find((li: any) => li.innerText.toLowerCase().includes('valid')) as any)?.innerText || 'N/A';
 
                     if (title && priceText) {
                         items.push({ name: title + ' Plan', priceRaw: priceText, dataRaw: title, validity: validText });
@@ -95,20 +95,20 @@ export async function scrapePlans() {
 
             // Click accordions
             await page.evaluate(() => {
-                const headers = Array.from(document.querySelectorAll('p')).filter(p => p.innerText.includes('Plans') || p.innerText.includes('Bundles'));
+                const headers = Array.from(document.querySelectorAll('p')).filter((p: any) => p.innerText.includes('Plans') || p.innerText.includes('Bundles'));
                 headers.forEach((h: any) => h.click());
             });
             await new Promise(r => setTimeout(r, 2000));
 
             const airtelRaw = await page.evaluate(() => {
                 const items: any[] = [];
-                document.querySelectorAll('table').forEach(table => {
+                document.querySelectorAll('table').forEach((table: any) => {
                     const rows = Array.from(table.querySelectorAll('tr'));
-                    rows.forEach(row => {
+                    rows.forEach((row: any) => {
                         const cells = Array.from(row.querySelectorAll('td'));
                         if (cells.length >= 3) {
                             // Heuristic: Check for price (N) and Volume (GB/MB)
-                            const cellTexts = cells.map(c => c.innerText.trim());
+                            const cellTexts = cells.map((c: any) => c.innerText.trim());
                             const pricePart = cellTexts.find(t => t.startsWith('N') || (parseFloat(t.replace(/,/g, '')) > 50 && !t.includes('MB') && !t.includes('GB')));
                             const dataPart = cellTexts.find(t => t.includes('MB') || t.includes('GB'));
                             const validPart = cellTexts.find(t => t.toLowerCase().includes('day') || t.toLowerCase().includes('month') || t.includes('Valid'));
@@ -158,7 +158,7 @@ export async function scrapePlans() {
             const gloRaw = await page.evaluate(() => {
                 const items: any[] = [];
                 // Strategy: Buttons with ID data-plan-...
-                document.querySelectorAll('button[id^="data-plan-"]').forEach(btn => {
+                document.querySelectorAll('button[id^="data-plan-"]').forEach((btn: any) => {
                     const id = btn.id; // data-plan-N500/7 days-1.55GB-2
                     const parts = id.split('-');
                     if (parts.length >= 4) {
