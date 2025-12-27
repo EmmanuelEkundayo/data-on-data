@@ -1,0 +1,1139 @@
+{
+  "lastUpdated": 1766861650592,
+  "plans": [
+    {
+      "id": "mtn-75mb-75",
+      "isp": "MTN",
+      "name": "75MB Plan",
+      "price": 75,
+      "dataMB": 75,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 1
+    },
+    {
+      "id": "mtn-110mb-100",
+      "isp": "MTN",
+      "name": "110MB Plan",
+      "price": 100,
+      "dataMB": 110,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 1.1
+    },
+    {
+      "id": "mtn-230mb-200",
+      "isp": "MTN",
+      "name": "230MB Plan",
+      "price": 200,
+      "dataMB": 230,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 1.15
+    },
+    {
+      "id": "mtn-500mb-350",
+      "isp": "MTN",
+      "name": "500MB Plan",
+      "price": 350,
+      "dataMB": 500,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 1.4285714285714286
+    },
+    {
+      "id": "mtn-1024mb-500",
+      "isp": "MTN",
+      "name": "1GB + 1.5MINS Plan",
+      "price": 500,
+      "dataMB": 1024,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 2.048
+    },
+    {
+      "id": "mtn-2560mb-750",
+      "isp": "MTN",
+      "name": "2.5GB Plan",
+      "price": 750,
+      "dataMB": 2560,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "mtn-3584mb-1000",
+      "isp": "MTN",
+      "name": "3.5GB Plan",
+      "price": 1000,
+      "dataMB": 3584,
+      "validity": "Valid for 24 Hrs",
+      "valueScore": 3.584
+    },
+    {
+      "id": "mtn-1536mb-600",
+      "isp": "MTN",
+      "name": "1.5GB Plan",
+      "price": 600,
+      "dataMB": 1536,
+      "validity": "\n\n\n Valid for 2 Days ",
+      "valueScore": 2.56
+    },
+    {
+      "id": "mtn-2048mb-750",
+      "isp": "MTN",
+      "name": "2GB Plan",
+      "price": 750,
+      "dataMB": 2048,
+      "validity": "\n\n\n Valid for 2 Days ",
+      "valueScore": 2.7306666666666666
+    },
+    {
+      "id": "mtn-2560mb-900",
+      "isp": "MTN",
+      "name": "2.5GB Plan",
+      "price": 900,
+      "dataMB": 2560,
+      "validity": "\n\n\n Valid for 2 Days ",
+      "valueScore": 2.8444444444444446
+    },
+    {
+      "id": "mtn-3277mb-1000",
+      "isp": "MTN",
+      "name": "3.2GB Plan",
+      "price": 1000,
+      "dataMB": 3277,
+      "validity": "\n\n\n Valid for 2 days ",
+      "valueScore": 3.277
+    },
+    {
+      "id": "mtn-4096mb-1200",
+      "isp": "MTN",
+      "name": "4GB Plan",
+      "price": 1200,
+      "dataMB": 4096,
+      "validity": "\n\n\n Valid for 2 days ",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "mtn-5632mb-1500",
+      "isp": "MTN",
+      "name": "5.5GB Plan",
+      "price": 1500,
+      "dataMB": 5632,
+      "validity": "\n\n\n Valid for 2 Days ",
+      "valueScore": 3.7546666666666666
+    },
+    {
+      "id": "mtn-7168mb-1800",
+      "isp": "MTN",
+      "name": "7GB Plan",
+      "price": 1800,
+      "dataMB": 7168,
+      "validity": "\n\n\n Valid for 2 days ",
+      "valueScore": 3.982222222222222
+    },
+    {
+      "id": "mtn-500mb-500",
+      "isp": "MTN",
+      "name": "500MB Plan",
+      "price": 500,
+      "dataMB": 500,
+      "validity": "\n\n\n Valid for 7 days ",
+      "valueScore": 1
+    },
+    {
+      "id": "mtn-1024mb-800",
+      "isp": "MTN",
+      "name": "1GB Plan",
+      "price": 800,
+      "dataMB": 1024,
+      "validity": "\n\n\n Valid for 7 Days ",
+      "valueScore": 1.28
+    },
+    {
+      "id": "mtn-1536mb-1000",
+      "isp": "MTN",
+      "name": "1.5GB Plan",
+      "price": 1000,
+      "dataMB": 1536,
+      "validity": "\n\n\n Valid for 7 days. ",
+      "valueScore": 1.536
+    },
+    {
+      "id": "mtn-3584mb-1500",
+      "isp": "MTN",
+      "name": "3.5GB Plan",
+      "price": 1500,
+      "dataMB": 3584,
+      "validity": "\n\n\n Valid for 7 Days ",
+      "valueScore": 2.3893333333333335
+    },
+    {
+      "id": "mtn-6144mb-2500",
+      "isp": "MTN",
+      "name": "6GB Plan",
+      "price": 2500,
+      "dataMB": 6144,
+      "validity": "\n\n\n Valid for 7 days ",
+      "valueScore": 2.4576
+    },
+    {
+      "id": "mtn-11264mb-3500",
+      "isp": "MTN",
+      "name": "11GB Plan",
+      "price": 3500,
+      "dataMB": 11264,
+      "validity": "\n\n\n Valid for 7 Days ",
+      "valueScore": 3.2182857142857144
+    },
+    {
+      "id": "mtn-20480mb-5000",
+      "isp": "MTN",
+      "name": "20GB Plan",
+      "price": 5000,
+      "dataMB": 20480,
+      "validity": "\n\n\n Valid for 7 Days ",
+      "valueScore": 4.096
+    },
+    {
+      "id": "mtn-2048mb-1500",
+      "isp": "MTN",
+      "name": "2GB + 2MINS Plan",
+      "price": 1500,
+      "dataMB": 2048,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 1.3653333333333333
+    },
+    {
+      "id": "mtn-2765mb-2000",
+      "isp": "MTN",
+      "name": "2.7GB + 2MINS Plan",
+      "price": 2000,
+      "dataMB": 2765,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 1.3825
+    },
+    {
+      "id": "mtn-3584mb-2500",
+      "isp": "MTN",
+      "name": "3.5GB+5MINS Plan",
+      "price": 2500,
+      "dataMB": 3584,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 1.4336
+    },
+    {
+      "id": "mtn-7168mb-3500",
+      "isp": "MTN",
+      "name": "7GB Plan",
+      "price": 3500,
+      "dataMB": 7168,
+      "validity": "\n\n\n Valid for 30 days ",
+      "valueScore": 2.048
+    },
+    {
+      "id": "mtn-10240mb-4500",
+      "isp": "MTN",
+      "name": "10GB + 10MINS Plan",
+      "price": 4500,
+      "dataMB": 10240,
+      "validity": "\n\n\n Valid for 30 days ",
+      "valueScore": 2.2755555555555556
+    },
+    {
+      "id": "mtn-12800mb-5500",
+      "isp": "MTN",
+      "name": "12.5GB Plan",
+      "price": 5500,
+      "dataMB": 12800,
+      "validity": "\n\n\n Valid for 30 days ",
+      "valueScore": 2.327272727272727
+    },
+    {
+      "id": "mtn-16896mb-6500",
+      "isp": "MTN",
+      "name": "16.5GB+10MINS Plan",
+      "price": 6500,
+      "dataMB": 16896,
+      "validity": "\n\n\n Valid for 30 days ",
+      "valueScore": 2.5993846153846154
+    },
+    {
+      "id": "mtn-19046mb-5500",
+      "isp": "MTN",
+      "name": "18.6GB ALWAYS ON Plan",
+      "price": 5500,
+      "dataMB": 19046,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 3.4629090909090907
+    },
+    {
+      "id": "mtn-20480mb-7500",
+      "isp": "MTN",
+      "name": "20GB Plan",
+      "price": 7500,
+      "dataMB": 20480,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 2.7306666666666666
+    },
+    {
+      "id": "mtn-25600mb-9000",
+      "isp": "MTN",
+      "name": "25GB Plan",
+      "price": 9000,
+      "dataMB": 25600,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 2.8444444444444446
+    },
+    {
+      "id": "mtn-36864mb-11000",
+      "isp": "MTN",
+      "name": "36GB Plan",
+      "price": 11000,
+      "dataMB": 36864,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 3.351272727272727
+    },
+    {
+      "id": "mtn-46080mb-9000",
+      "isp": "MTN",
+      "name": "45GB ALWAYS ON Plan",
+      "price": 9000,
+      "dataMB": 46080,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 5.12
+    },
+    {
+      "id": "mtn-66560mb-16000",
+      "isp": "MTN",
+      "name": "65GB Plan",
+      "price": 16000,
+      "dataMB": 66560,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 4.16
+    },
+    {
+      "id": "mtn-76800mb-18000",
+      "isp": "MTN",
+      "name": "75GB Plan",
+      "price": 18000,
+      "dataMB": 76800,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 4.266666666666667
+    },
+    {
+      "id": "mtn-168960mb-35000",
+      "isp": "MTN",
+      "name": "165GB Plan",
+      "price": 35000,
+      "dataMB": 168960,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 4.827428571428571
+    },
+    {
+      "id": "mtn-256000mb-55000",
+      "isp": "MTN",
+      "name": "250GB Plan",
+      "price": 55000,
+      "dataMB": 256000,
+      "validity": "\n\n\n Valid for 30 Days ",
+      "valueScore": 4.654545454545454
+    },
+    {
+      "id": "mtn-92160mb-25000",
+      "isp": "MTN",
+      "name": "90GB Plan",
+      "price": 25000,
+      "dataMB": 92160,
+      "validity": "\n\n\n Valid for 60 Days ",
+      "valueScore": 3.6864
+    },
+    {
+      "id": "mtn-153600mb-40000",
+      "isp": "MTN",
+      "name": "150GB Plan",
+      "price": 40000,
+      "dataMB": 153600,
+      "validity": "\n\n\n Valid for 60 Days ",
+      "valueScore": 3.84
+    },
+    {
+      "id": "mtn-491520mb-90000",
+      "isp": "MTN",
+      "name": "480GB Plan",
+      "price": 90000,
+      "dataMB": 491520,
+      "validity": "\n\n\n Valid for 90 Days ",
+      "valueScore": 5.461333333333333
+    },
+    {
+      "id": "mtn-819200mb-125000",
+      "isp": "MTN",
+      "name": "800GB Plan",
+      "price": 125000,
+      "dataMB": 819200,
+      "validity": "\n\n\n Valid for 365 days ",
+      "valueScore": 6.5536
+    },
+    {
+      "id": "airtel-75mb-75",
+      "isp": "Airtel",
+      "name": "75MB Plan",
+      "price": 75,
+      "dataMB": 75,
+      "validity": "N/A",
+      "valueScore": 1
+    },
+    {
+      "id": "airtel-110mb-100",
+      "isp": "Airtel",
+      "name": "110MB Plan",
+      "price": 100,
+      "dataMB": 110,
+      "validity": "N/A",
+      "valueScore": 1.1
+    },
+    {
+      "id": "airtel-230mb-200",
+      "isp": "Airtel",
+      "name": "230MB Plan",
+      "price": 200,
+      "dataMB": 230,
+      "validity": "N/A",
+      "valueScore": 1.15
+    },
+    {
+      "id": "airtel-300mb-300",
+      "isp": "Airtel",
+      "name": "300MB Plan",
+      "price": 300,
+      "dataMB": 300,
+      "validity": "N/A",
+      "valueScore": 1
+    },
+    {
+      "id": "airtel-500mb-350",
+      "isp": "Airtel",
+      "name": "500MB Plan",
+      "price": 350,
+      "dataMB": 500,
+      "validity": "N/A",
+      "valueScore": 1.4285714285714286
+    },
+    {
+      "id": "airtel-500mb-500",
+      "isp": "Airtel",
+      "name": "500MB Plan",
+      "price": 500,
+      "dataMB": 500,
+      "validity": "N/A",
+      "valueScore": 1
+    },
+    {
+      "id": "airtel-1024mb-800",
+      "isp": "Airtel",
+      "name": "1GB Plan",
+      "price": 800,
+      "dataMB": 1024,
+      "validity": "N/A",
+      "valueScore": 1.28
+    },
+    {
+      "id": "airtel-1536mb-1000",
+      "isp": "Airtel",
+      "name": "1.5GB Plan",
+      "price": 1000,
+      "dataMB": 1536,
+      "validity": "N/A",
+      "valueScore": 1.536
+    },
+    {
+      "id": "airtel-5120mb-1500",
+      "isp": "Airtel",
+      "name": "5GB Plan",
+      "price": 1500,
+      "dataMB": 5120,
+      "validity": "N/A",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "airtel-6144mb-2500",
+      "isp": "Airtel",
+      "name": "6GB Plan",
+      "price": 2500,
+      "dataMB": 6144,
+      "validity": "N/A",
+      "valueScore": 2.4576
+    },
+    {
+      "id": "airtel-10240mb-3000",
+      "isp": "Airtel",
+      "name": "10GB Plan",
+      "price": 3000,
+      "dataMB": 10240,
+      "validity": "N/A",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "airtel-18432mb-5000",
+      "isp": "Airtel",
+      "name": "18GB Plan",
+      "price": 5000,
+      "dataMB": 18432,
+      "validity": "N/A",
+      "valueScore": 3.6864
+    },
+    {
+      "id": "airtel-2048mb-1500",
+      "isp": "Airtel",
+      "name": "2GB Plan",
+      "price": 1500,
+      "dataMB": 2048,
+      "validity": "N/A",
+      "valueScore": 1.3653333333333333
+    },
+    {
+      "id": "airtel-3072mb-2000",
+      "isp": "Airtel",
+      "name": "3GB Plan",
+      "price": 2000,
+      "dataMB": 3072,
+      "validity": "30days",
+      "valueScore": 1.536
+    },
+    {
+      "id": "airtel-4096mb-2500",
+      "isp": "Airtel",
+      "name": "4GB Plan",
+      "price": 2500,
+      "dataMB": 4096,
+      "validity": "N/A",
+      "valueScore": 1.6384
+    },
+    {
+      "id": "airtel-8192mb-3000",
+      "isp": "Airtel",
+      "name": "8GB Plan",
+      "price": 3000,
+      "dataMB": 8192,
+      "validity": "N/A",
+      "valueScore": 2.7306666666666666
+    },
+    {
+      "id": "airtel-10240mb-4000",
+      "isp": "Airtel",
+      "name": "10GB Plan",
+      "price": 4000,
+      "dataMB": 10240,
+      "validity": "N/A",
+      "valueScore": 2.56
+    },
+    {
+      "id": "airtel-13312mb-5000",
+      "isp": "Airtel",
+      "name": "13GB Plan",
+      "price": 5000,
+      "dataMB": 13312,
+      "validity": "30days",
+      "valueScore": 2.6624
+    },
+    {
+      "id": "airtel-18432mb-6000",
+      "isp": "Airtel",
+      "name": "18GB Plan",
+      "price": 6000,
+      "dataMB": 18432,
+      "validity": "N/A",
+      "valueScore": 3.072
+    },
+    {
+      "id": "airtel-25600mb-8000",
+      "isp": "Airtel",
+      "name": "25GB Plan",
+      "price": 8000,
+      "dataMB": 25600,
+      "validity": "N/A",
+      "valueScore": 3.2
+    },
+    {
+      "id": "airtel-35840mb-10000",
+      "isp": "Airtel",
+      "name": "35GB Plan",
+      "price": 10000,
+      "dataMB": 35840,
+      "validity": "N/A",
+      "valueScore": 3.584
+    },
+    {
+      "id": "airtel-61440mb-15000",
+      "isp": "Airtel",
+      "name": "60GB Plan",
+      "price": 15000,
+      "dataMB": 61440,
+      "validity": "N/A",
+      "valueScore": 4.096
+    },
+    {
+      "id": "airtel-102400mb-20000",
+      "isp": "Airtel",
+      "name": "100GB Plan",
+      "price": 20000,
+      "dataMB": 102400,
+      "validity": "N/A",
+      "valueScore": 5.12
+    },
+    {
+      "id": "airtel-163840mb-30000",
+      "isp": "Airtel",
+      "name": "160GB Plan",
+      "price": 30000,
+      "dataMB": 163840,
+      "validity": "N/A",
+      "valueScore": 5.461333333333333
+    },
+    {
+      "id": "airtel-215040mb-40000",
+      "isp": "Airtel",
+      "name": "210GB Plan",
+      "price": 40000,
+      "dataMB": 215040,
+      "validity": "N/A",
+      "valueScore": 5.376
+    },
+    {
+      "id": "airtel-307200mb-50000",
+      "isp": "Airtel",
+      "name": "300GB Plan",
+      "price": 50000,
+      "dataMB": 307200,
+      "validity": "N/A",
+      "valueScore": 6.144
+    },
+    {
+      "id": "airtel-358400mb-60000",
+      "isp": "Airtel",
+      "name": "350GB Plan",
+      "price": 60000,
+      "dataMB": 358400,
+      "validity": "N/A",
+      "valueScore": 5.973333333333334
+    },
+    {
+      "id": "airtel-701440mb-100000",
+      "isp": "Airtel",
+      "name": "685GB Plan",
+      "price": 100000,
+      "dataMB": 701440,
+      "validity": "N/A",
+      "valueScore": 7.0144
+    },
+    {
+      "id": "airtel-500mb-4000",
+      "isp": "Airtel",
+      "name": "500MB Daily Plan",
+      "price": 4000,
+      "dataMB": 500,
+      "validity": "N/A",
+      "valueScore": 0.125
+    },
+    {
+      "id": "airtel-1362mb-7500",
+      "isp": "Airtel",
+      "name": "1.33GB Daily Plan",
+      "price": 7500,
+      "dataMB": 1362,
+      "validity": "N/A",
+      "valueScore": 0.1816
+    },
+    {
+      "id": "airtel-200mb-100",
+      "isp": "Airtel",
+      "name": "200MB Plan",
+      "price": 100,
+      "dataMB": 200,
+      "validity": "N/A",
+      "valueScore": 2
+    },
+    {
+      "id": "airtel-1024mb-300",
+      "isp": "Airtel",
+      "name": "1GB Plan",
+      "price": 300,
+      "dataMB": 1024,
+      "validity": "N/A",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "airtel-1536mb-500",
+      "isp": "Airtel",
+      "name": "1.5GB Plan",
+      "price": 500,
+      "dataMB": 1536,
+      "validity": "N/A",
+      "valueScore": 3.072
+    },
+    {
+      "id": "airtel-1024mb-1000",
+      "isp": "Airtel",
+      "name": "1GB Plan",
+      "price": 1000,
+      "dataMB": 1024,
+      "validity": "30days",
+      "valueScore": 1.024
+    },
+    {
+      "id": "glo-45mb-50",
+      "isp": "Glo",
+      "name": "N50/1 day Plan",
+      "price": 50,
+      "dataMB": 45,
+      "validity": "1 day",
+      "valueScore": 0.9
+    },
+    {
+      "id": "glo-125mb-100",
+      "isp": "Glo",
+      "name": "N100/1 day Plan",
+      "price": 100,
+      "dataMB": 125,
+      "validity": "1 day",
+      "valueScore": 1.25
+    },
+    {
+      "id": "glo-275mb-200",
+      "isp": "Glo",
+      "name": "N200/2 Days Plan",
+      "price": 200,
+      "dataMB": 275,
+      "validity": "2 Days",
+      "valueScore": 1.375
+    },
+    {
+      "id": "glo-1587mb-500",
+      "isp": "Glo",
+      "name": "N500/7 days Plan",
+      "price": 500,
+      "dataMB": 1587,
+      "validity": "7 days",
+      "valueScore": 3.174
+    },
+    {
+      "id": "glo-1126mb-750",
+      "isp": "Glo",
+      "name": "N750/14 Days Plan",
+      "price": 750,
+      "dataMB": 1126,
+      "validity": "14 Days",
+      "valueScore": 1.5013333333333334
+    },
+    {
+      "id": "glo-3789mb-1000",
+      "isp": "Glo",
+      "name": "N1,000/7 Days Plan",
+      "price": 1000,
+      "dataMB": 3789,
+      "validity": "7 Days",
+      "valueScore": 3.789
+    },
+    {
+      "id": "glo-6144mb-1500",
+      "isp": "Glo",
+      "name": "N1500/7 days Plan",
+      "price": 1500,
+      "dataMB": 6144,
+      "validity": "7 days",
+      "valueScore": 4.096
+    },
+    {
+      "id": "glo-9216mb-2000",
+      "isp": "Glo",
+      "name": "N2,000/7 Days Plan",
+      "price": 2000,
+      "dataMB": 9216,
+      "validity": "7 Days",
+      "valueScore": 4.608
+    },
+    {
+      "id": "glo-25088mb-5000",
+      "isp": "Glo",
+      "name": "N5,000/7 Days Plan",
+      "price": 5000,
+      "dataMB": 25088,
+      "validity": "7 Days",
+      "valueScore": 5.0176
+    },
+    {
+      "id": "glo-2662mb-1000",
+      "isp": "Glo",
+      "name": "N1,000/30 days Plan",
+      "price": 1000,
+      "dataMB": 2662,
+      "validity": "30 days",
+      "valueScore": 2.662
+    },
+    {
+      "id": "glo-5325mb-1500",
+      "isp": "Glo",
+      "name": "N1,500/30 days Plan",
+      "price": 1500,
+      "dataMB": 5325,
+      "validity": "30 days",
+      "valueScore": 3.55
+    },
+    {
+      "id": "glo-6400mb-2000",
+      "isp": "Glo",
+      "name": "N2,000/30 days Plan",
+      "price": 2000,
+      "dataMB": 6400,
+      "validity": "30 days",
+      "valueScore": 3.2
+    },
+    {
+      "id": "glo-7424mb-2500",
+      "isp": "Glo",
+      "name": "N2,500/30 days Plan",
+      "price": 2500,
+      "dataMB": 7424,
+      "validity": "30 days",
+      "valueScore": 2.9696
+    },
+    {
+      "id": "glo-10752mb-3000",
+      "isp": "Glo",
+      "name": "N3,000/30 days Plan",
+      "price": 3000,
+      "dataMB": 10752,
+      "validity": "30 days",
+      "valueScore": 3.584
+    },
+    {
+      "id": "glo-12800mb-4000",
+      "isp": "Glo",
+      "name": "N4,000/30 days Plan",
+      "price": 4000,
+      "dataMB": 12800,
+      "validity": "30 days",
+      "valueScore": 3.2
+    },
+    {
+      "id": "glo-16896mb-5000",
+      "isp": "Glo",
+      "name": "N5,000/30 days Plan",
+      "price": 5000,
+      "dataMB": 16896,
+      "validity": "30 days",
+      "valueScore": 3.3792
+    },
+    {
+      "id": "glo-20992mb-6000",
+      "isp": "Glo",
+      "name": "N6000/30 Days Plan",
+      "price": 6000,
+      "dataMB": 20992,
+      "validity": "30 Days",
+      "valueScore": 3.498666666666667
+    },
+    {
+      "id": "glo-28672mb-8000",
+      "isp": "Glo",
+      "name": "N8,000/30 days Plan",
+      "price": 8000,
+      "dataMB": 28672,
+      "validity": "30 days",
+      "valueScore": 3.584
+    },
+    {
+      "id": "glo-43008mb-10000",
+      "isp": "Glo",
+      "name": "N10,000/30 days Plan",
+      "price": 10000,
+      "dataMB": 43008,
+      "validity": "30 days",
+      "valueScore": 4.3008
+    },
+    {
+      "id": "glo-65536mb-15000",
+      "isp": "Glo",
+      "name": "N15,000/30 days Plan",
+      "price": 15000,
+      "dataMB": 65536,
+      "validity": "30 days",
+      "valueScore": 4.369066666666667
+    },
+    {
+      "id": "glo-109568mb-20000",
+      "isp": "Glo",
+      "name": "N20,000/30 days Plan",
+      "price": 20000,
+      "dataMB": 109568,
+      "validity": "30 days",
+      "valueScore": 5.4784
+    },
+    {
+      "id": "glo-168960mb-30000",
+      "isp": "Glo",
+      "name": "N30,000/30 days Plan",
+      "price": 30000,
+      "dataMB": 168960,
+      "validity": "30 days",
+      "valueScore": 5.632
+    },
+    {
+      "id": "glo-363520mb-60000",
+      "isp": "Glo",
+      "name": "N60,000/90 days Plan",
+      "price": 60000,
+      "dataMB": 363520,
+      "validity": "90 days",
+      "valueScore": 6.058666666666666
+    },
+    {
+      "id": "glo-1024000mb-150000",
+      "isp": "Glo",
+      "name": "N150,000/1 year Plan",
+      "price": 150000,
+      "dataMB": 1024000,
+      "validity": "1 year",
+      "valueScore": 6.826666666666667
+    },
+    {
+      "id": "glo-1024mb-350",
+      "isp": "Glo",
+      "name": "N350/1 Day Plan",
+      "price": 350,
+      "dataMB": 1024,
+      "validity": "1 Day",
+      "valueScore": 2.9257142857142857
+    },
+    {
+      "id": "glo-2048mb-500",
+      "isp": "Glo",
+      "name": "N500/1 Day Plan",
+      "price": 500,
+      "dataMB": 2048,
+      "validity": "1 Day",
+      "valueScore": 4.096
+    },
+    {
+      "id": "glo-6042mb-1500",
+      "isp": "Glo",
+      "name": "N1500/7 Days Plan",
+      "price": 1500,
+      "dataMB": 6042,
+      "validity": "7 Days",
+      "valueScore": 4.028
+    },
+    {
+      "id": "glo-135mb-50",
+      "isp": "Glo",
+      "name": "N50/3 Days Plan",
+      "price": 50,
+      "dataMB": 135,
+      "validity": "3 Days",
+      "valueScore": 2.7
+    },
+    {
+      "id": "glo-335mb-100",
+      "isp": "Glo",
+      "name": "N100/7 Days Plan",
+      "price": 100,
+      "dataMB": 335,
+      "validity": "7 Days",
+      "valueScore": 3.35
+    },
+    {
+      "id": "glo-1126mb-300",
+      "isp": "Glo",
+      "name": "N300/10 Days Plan",
+      "price": 300,
+      "dataMB": 1126,
+      "validity": "10 Days",
+      "valueScore": 3.7533333333333334
+    },
+    {
+      "id": "glo-1843mb-500",
+      "isp": "Glo",
+      "name": "N500/15 Days Plan",
+      "price": 500,
+      "dataMB": 1843,
+      "validity": "15 Days",
+      "valueScore": 3.686
+    },
+    {
+      "id": "glo-245mb-100",
+      "isp": "Glo",
+      "name": "N100/1 day Plan",
+      "price": 100,
+      "dataMB": 245,
+      "validity": "1 day",
+      "valueScore": 2.45
+    },
+    {
+      "id": "glo-525mb-200",
+      "isp": "Glo",
+      "name": "N200/2 Days Plan",
+      "price": 200,
+      "dataMB": 525,
+      "validity": "2 Days",
+      "valueScore": 2.625
+    },
+    {
+      "id": "glo-2150mb-500",
+      "isp": "Glo",
+      "name": "N500/7 Days Plan",
+      "price": 500,
+      "dataMB": 2150,
+      "validity": "7 Days",
+      "valueScore": 4.3
+    },
+    {
+      "id": "glo-4301mb-1000",
+      "isp": "Glo",
+      "name": "N1,000/30 Days Plan",
+      "price": 1000,
+      "dataMB": 4301,
+      "validity": "30 Days",
+      "valueScore": 4.301
+    },
+    {
+      "id": "glo-10240mb-2000",
+      "isp": "Glo",
+      "name": "N2,000/30 Days Plan",
+      "price": 2000,
+      "dataMB": 10240,
+      "validity": "30 Days",
+      "valueScore": 5.12
+    },
+    {
+      "id": "glo-32768mb-5000",
+      "isp": "Glo",
+      "name": "N5,000/30 Days Plan",
+      "price": 5000,
+      "dataMB": 32768,
+      "validity": "30 Days",
+      "valueScore": 6.5536
+    },
+    {
+      "id": "glo-300mb-100",
+      "isp": "Glo",
+      "name": "N100/1 Day Plan",
+      "price": 100,
+      "dataMB": 300,
+      "validity": "1 Day",
+      "valueScore": 3
+    },
+    {
+      "id": "glo-1024mb-300",
+      "isp": "Glo",
+      "name": "N300/3 Days Plan",
+      "price": 300,
+      "dataMB": 1024,
+      "validity": "3 Days",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "glo-1536mb-500",
+      "isp": "Glo",
+      "name": "N500/7 Days Plan",
+      "price": 500,
+      "dataMB": 1536,
+      "validity": "7 Days",
+      "valueScore": 3.072
+    },
+    {
+      "id": "glo-3584mb-1000",
+      "isp": "Glo",
+      "name": "N1000/30 Days Plan",
+      "price": 1000,
+      "dataMB": 3584,
+      "validity": "30 Days",
+      "valueScore": 3.584
+    },
+    {
+      "id": "glo-350mb-60",
+      "isp": "Glo",
+      "name": "N60/1 Night Plan",
+      "price": 60,
+      "dataMB": 350,
+      "validity": "1 Night",
+      "valueScore": 5.833333333333333
+    },
+    {
+      "id": "glo-750mb-120",
+      "isp": "Glo",
+      "name": "N120/1 Night Plan",
+      "price": 120,
+      "dataMB": 750,
+      "validity": "1 Night",
+      "valueScore": 6.25
+    },
+    {
+      "id": "glo-500mb-200",
+      "isp": "Glo",
+      "name": "N200/1 Hour Plan",
+      "price": 200,
+      "dataMB": 500,
+      "validity": "1 Hour",
+      "valueScore": 2.5
+    },
+    {
+      "id": "glo-1024mb-300",
+      "isp": "Glo",
+      "name": "N300/2 Hours Plan",
+      "price": 300,
+      "dataMB": 1024,
+      "validity": "2 Hours",
+      "valueScore": 3.4133333333333336
+    },
+    {
+      "id": "glo-875mb-200",
+      "isp": "Glo",
+      "name": "N200/Sat-Sun Plan",
+      "price": 200,
+      "dataMB": 875,
+      "validity": "Sat",
+      "valueScore": 4.375
+    },
+    {
+      "id": "glo-2560mb-500",
+      "isp": "Glo",
+      "name": "N500/Sat-Sun Plan",
+      "price": 500,
+      "dataMB": 2560,
+      "validity": "Sat",
+      "valueScore": 5.12
+    },
+    {
+      "id": "glo-6246mb-2000",
+      "isp": "Glo",
+      "name": "N2,000 Always ON/15 Days Plan",
+      "price": 2000,
+      "dataMB": 6246,
+      "validity": "15 Days",
+      "valueScore": 3.123
+    },
+    {
+      "id": "glo-15360mb-3500",
+      "isp": "Glo",
+      "name": "N3,500 Always ON/30 Days Plan",
+      "price": 3500,
+      "dataMB": 15360,
+      "validity": "30 Days",
+      "valueScore": 4.388571428571429
+    },
+    {
+      "id": "glo-30720mb-5000",
+      "isp": "Glo",
+      "name": "N5,000 Always ON/30 Days Plan",
+      "price": 5000,
+      "dataMB": 30720,
+      "validity": "30 Days",
+      "valueScore": 6.144
+    },
+    {
+      "id": "glo-46080mb-7000",
+      "isp": "Glo",
+      "name": "N7,000 Always ON/30 Days Plan",
+      "price": 7000,
+      "dataMB": 46080,
+      "validity": "30 Days",
+      "valueScore": 6.582857142857143
+    }
+  ]
+}
