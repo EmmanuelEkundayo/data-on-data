@@ -10,7 +10,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-[70vh] text-center space-y-16 animate-in fade-in duration-1000">
       <div className="space-y-6 max-w-3xl">
         <h1 className="text-7xl font-black text-brand-secondary tracking-tighter leading-tight">
-          Stop Overpaying for <span className="text-brand-primary">Data</span>.
+          Stop Overpaying for <span className="text-brand-text">Data</span>.
         </h1>
         <p className="text-2xl text-neutral-500 font-light leading-relaxed">
           Data-on-Data tracks every plan from MTN, Airtel, and Glo in real-time.

@@ -31,7 +31,7 @@ export default async function ISPPage({ params }: { params: Promise<{ isp: strin
     return (
         <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
             <header className="flex flex-col gap-4 border-b border-neutral-200 pb-8">
-                <div className="inline-flex self-start px-3 py-1 rounded-full bg-brand-primary/10 text-brand-primary font-bold text-sm uppercase tracking-wide">
+                <div className="inline-flex self-start px-3 py-1 rounded-full bg-brand-primary/10 text-brand-text font-bold text-sm uppercase tracking-wide">
                     {ispDisplay} Network
                 </div>
                 <h1 className="text-5xl font-black tracking-tighter text-brand-secondary">
@@ -47,7 +47,7 @@ export default async function ISPPage({ params }: { params: Promise<{ isp: strin
             <section>
                 <div className="flex items-center justify-between mb-8">
                     <h2 className="text-2xl font-bold text-brand-secondary">Best Value Picks</h2>
-                    <div className="text-sm text-brand-primary font-medium hover:underline cursor-pointer">How we calculate this?</div>
+                    <div className="text-sm text-brand-text font-medium hover:underline cursor-pointer">How we calculate this?</div>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -87,7 +87,7 @@ export default async function ISPPage({ params }: { params: Promise<{ isp: strin
             <section className="bg-white rounded-2xl shadow-sm border border-neutral-100 overflow-hidden">
                 <div className="p-6 border-b border-neutral-100 flex items-center justify-between bg-brand-secondary/5">
                     <h3 className="text-xl font-bold text-brand-secondary">All Available Plans</h3>
-                    <button className="text-xs font-semibold uppercase tracking-wider text-brand-primary border border-brand-primary/30 px-3 py-1.5 rounded-lg hover:bg-brand-primary hover:text-white transition-colors">
+                    <button className="text-xs font-semibold uppercase tracking-wider text-brand-text border border-brand-primary/30 px-3 py-1.5 rounded-lg hover:bg-brand-primary hover:text-brand-contrast transition-colors">
                         Download CSV
                     </button>
                 </div>
@@ -119,7 +119,7 @@ export default async function ISPPage({ params }: { params: Promise<{ isp: strin
                                         </div>
                                     </td>
                                     <td className="p-6">
-                                        <button className="opacity-0 group-hover:opacity-100 transition-opacity text-brand-primary font-bold hover:underline">
+                                        <button className="opacity-0 group-hover:opacity-100 transition-opacity text-brand-text font-bold hover:underline">
                                             Select
                                         </button>
                                     </td>
